@@ -1,5 +1,17 @@
 # 💫 About Me:
-I’m currently working on<br>Building web apps and AI-based tools focused on solving real problems for Gen Z users.<br><br>I’m looking to collaborate on<br>Web applications, SaaS projects, and AI integrations that have real users and monetization potential.<br><br>I’m looking for help with<br>Understanding user problems deeply, product-market fit, and scaling projects beyond just development.<br><br>I’m currently learning<br>Python, web development, and how to build AI-powered applications.<br><br>Ask me about<br>Building beginner-friendly web apps, integrating AI into projects, and starting from scratch with limited resources.<br><br>Fun fact<br>I’m focused on turning ideas into real products instead of just learning theory.
+I’m Shantanu Jha, a product-focused developer and entrepreneur from India. I enjoy building practical AI-powered applications, backend systems and automation tools that solve real operational problems.
+
+🔭 I’m currently working on production-ready AI and SaaS products
+
+👯 I’m looking to collaborate on AI automation, healthcare technology and open-source projects
+
+🤝 I’m looking for help with scalable system architecture, product growth and developer communities
+
+🌱 I’m currently learning backend engineering, cloud infrastructure, security and system design
+
+💬 Ask me about product prototyping, API integrations, workflow automation and building SaaS products
+
+⚡ Fun fact: I enjoy turning everyday operational problems into working software
 
 
 ## 🌐 Socials:
